@@ -29,7 +29,7 @@ A proposta surgiu da observação de falhas recorrentes em processos manuais em 
 ## 🔗 Links úteis
 
 - 📄 [Documentação PDF](./Documentacao_do_Software_Saude_PRO.pdf)
-- 🎨 [Protótipo Figma](https://www.figma.com/design/GneER6iUuilfGSjnqAwUSr/SaudePro?node-id=0-1&p=f&t=LlMpv3DhJvTK1wnk-0)
+- 🎨 [Protótipo Figma](https://www.figma.com/proto/GneER6iUuilfGSjnqAwUSr/SaudePro?node-id=18-2&p=f&t=VxPSCflN72jbDXFC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=18%3A2)
 - 📁 [Diagrama de Classes](https://drive.google.com/file/d/11SXfEq9bLOx0A60pcW1cQ2k6IAKJLiZz/view)
 
 ## 🧠 Aprendizados
